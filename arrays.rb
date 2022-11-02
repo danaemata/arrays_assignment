@@ -22,3 +22,10 @@ puts has_car.push
 #Index positions always begin with the number 0.
 # example:
 # array = [0, 1, 2, 3]
+
+# Fill
+#Fill is the term used when a selected element is used 
+# to replace the remaining elements in an array.
+#example:
+# numbers = [1,2,3,4]
+# fill(2) = [2,2,2,2]
